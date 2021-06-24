@@ -5,7 +5,7 @@ int main()
 	years = days/365;
 	weeks = (days/7);
 	months = days/30;
-	printf("days converted to weeks,months and years");
+	printf("weeks = %d\n months=%d\n years = %d\n",weeks,months,years);
 	
 }
 
